@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "node-tg-bot",
+      "C:\\Users\\razorxan\\Documents\\Dev\\node-tg-bot-dev"
+    ]
+  ],
+  "_from": "node-tg-bot@latest",
+  "_id": "node-tg-bot@1.8.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/node-tg-bot",
+  "_nodeVersion": "5.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/node-tg-bot-1.8.0.tgz_1460689194061_0.3864471821580082"
+  },
+  "_npmUser": {
+    "email": "razorxan@gmail.com",
+    "name": "razorxan"
+  },
+  "_npmVersion": "3.8.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "node-tg-bot",
+    "raw": "node-tg-bot",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "8508fccc0fbb4c739cd3a67696dc6d62d967e646",
+  "_shrinkwrap": null,
+  "_spec": "node-tg-bot",
+  "_where": "C:\\Users\\razorxan\\Documents\\Dev\\node-tg-bot-dev",
+  "author": {
+    "name": "razorxan"
+  },
+  "bugs": {
+    "url": "https://github.com/razorxan/node-tg-bot/issues"
+  },
+  "dependencies": {
+    "mime": "^1.3.4",
+    "request": "^2.71.0"
+  },
+  "description": "Node Telegram Bot Api Interface",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8508fccc0fbb4c739cd3a67696dc6d62d967e646",
+    "tarball": "https://registry.npmjs.org/node-tg-bot/-/node-tg-bot-1.8.0.tgz"
+  },
+  "homepage": "https://github.com/razorxan/node-tg-bot#readme",
+  "keywords": [
+    "node",
+    "telegram",
+    "bot"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "razorxan@gmail.com",
+      "name": "razorxan"
+    }
+  ],
+  "name": "node-tg-bot",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razorxan/node-tg-bot.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.8.0"
+}
