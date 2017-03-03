@@ -1,1 +1,1 @@
-module.exports = require('./lib/TelegramBot.js');
+module.exports = require('./lib/Telegram.js');
